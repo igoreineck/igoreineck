@@ -1,8 +1,7 @@
 ### Hi there! It's a pleasure to have you here! 👋
 
 - I'm currently working as a Software Engineer at <a href="https://github.com/magrathealabs">@magrathealabs</a>
-- With 5 years of experience, I've been working most of the time with web development technologies.
-- Proeficient in Ruby & Rails and JS/TS
+- With 5 years of experience, I've been working most of the time with web development technologies such as Ruby & Rails and JS
 - My main interests are: backend, software architecture, and distributed systems
 - I'm currently studying GraphQL and systems programming with Rust
 
