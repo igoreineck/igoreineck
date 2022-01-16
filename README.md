@@ -3,7 +3,7 @@
 - I'm currently working as a Software Engineer at <a href="https://github.com/magrathealabs">@magrathealabs</a>
 - With 5 years of experience, I've been working most of the time with web development technologies such as Ruby & Rails and JS
 - My main interests are: backend, software architecture, and distributed systems
-- I'm currently studying GraphQL and systems programming with Rust
+- I'm currently learning GraphQL and playing with Rust
 
 <div align="justify">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoreineck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
