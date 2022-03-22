@@ -1,6 +1,5 @@
 ### Hi there! It's a pleasure to have you here! 👋
 
-- I'm currently working as a Sr. Software Engineer at <a href="https://github.com/trusted">@trusted</a>
 - I've been working most of the time with web development technologies such as Ruby & Rails and JS
 - My main interests are: backend, software architecture, and distributed systems
 
