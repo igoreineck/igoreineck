@@ -1,9 +1,8 @@
 ### Hi there! It's a pleasure to have you here! 👋
 
-- I'm currently working as a Software Engineer at <a href="https://github.com/magrathealabs">@magrathealabs</a>
-- With 5 years of experience, I've been working most of the time with web development technologies such as Ruby & Rails and JS
+- I'm currently working as a Sr. Software Engineer at <a href="https://github.com/trusted">@trusted</a>
+- I've been working most of the time with web development technologies such as Ruby & Rails and JS
 - My main interests are: backend, software architecture, and distributed systems
-- I'm currently learning GraphQL and playing with Rust
 
 <div align="justify">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoreineck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
